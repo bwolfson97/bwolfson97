@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brandon Wolfson, a deep learning engineer excited about innovation! I attended UCLA where I studied computational mathematics and performed improv comedy! 🎭
+I'm Brandon Wolfson, a machine learning engineer excited about deep learning and human learning! I attended UCLA where I studied computational mathematics and performed improv comedy! 🎭
 
 - 🔭 I’m currently working on applying deep learning to space! 🌠
 - 🌱 I’m currently learning PyTorch and Fast.ai and trying to win Kaggle contests! 🏆
